@@ -4,5 +4,6 @@ Special thanks to https://github.com/Osazuwa-Micheal , whose initial work was th
 Thanks to Kaggle for the dataset
 (https://www.kaggle.com/datasets/mrsimple07/employee-attrition-data-prediction)
 
-Regards, 
+Regards, <br>
 Suganya
+
