@@ -1,4 +1,4 @@
-# Employee Attrition Analysis
+# Employee Attrition Analysis | Machine Learning with Logistic Regression
 
 ![Employee Attrition report](./Employee-Attrition.jpg) 
 
@@ -21,3 +21,4 @@ Predict employee attrition using HR data, and identify key factors contributing 
 - The logistic regression model achieved 86% accuracy and robust prediction for employees who stayed, but struggled with detecting those who left due to class imbalance.
 - "OverTime" and "MaritalStatus" were top predictors of attrition, while "JobSatisfaction" and "WorkLifeBalance" helped retention.
 - Recommended next steps include handling class imbalance, applying advanced models, and using findings for targeted HR interventions.
+
